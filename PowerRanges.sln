@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerRanges", "PowerRanges\PowerRanges.vcxproj", "{8601AB45-4D75-4423-8C55-2DE3EF23EA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8601AB45-4D75-4423-8C55-2DE3EF23EA27}.Debug|x64.ActiveCfg = Debug|x64
+		{8601AB45-4D75-4423-8C55-2DE3EF23EA27}.Debug|x64.Build.0 = Debug|x64
+		{8601AB45-4D75-4423-8C55-2DE3EF23EA27}.Debug|x86.ActiveCfg = Debug|Win32
+		{8601AB45-4D75-4423-8C55-2DE3EF23EA27}.Debug|x86.Build.0 = Debug|Win32
+		{8601AB45-4D75-4423-8C55-2DE3EF23EA27}.Release|x64.ActiveCfg = Release|x64
+		{8601AB45-4D75-4423-8C55-2DE3EF23EA27}.Release|x64.Build.0 = Release|x64
+		{8601AB45-4D75-4423-8C55-2DE3EF23EA27}.Release|x86.ActiveCfg = Release|Win32
+		{8601AB45-4D75-4423-8C55-2DE3EF23EA27}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27AC19CE-470D-4061-9999-A55A784F0B35}
+	EndGlobalSection
+EndGlobal
