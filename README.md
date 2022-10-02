@@ -1,4 +1,4 @@
-![powerRanges logo](https://raw.githubusercontent.com/DjoleM/powerRanges/master/powerRanges.png)
+![powerRanges logo](https://raw.githubusercontent.com/DjoleM/PowerRanges/master/PowerRanges.png)
 
 # Power Ranges
 
